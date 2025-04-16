@@ -13,7 +13,7 @@ Just upload an image, and VisionMatch will search your dataset to find the close
 
 ## ✨ Features
 
-- Upload an image and find similar ones instantly
+- Upload your images manually
 - Uses powerful vision transformers (CLIP) for embedding generation
 - Lightweight FastAPI backend
 - Easy-to-use web frontend
