@@ -7,7 +7,7 @@ Just upload an image, and VisionMatch will search your dataset to find the close
 
 ## 🖼️ Demo
 
-![screenshot](https://s33.picofile.com/file/8483946568/vision.gif) <!-- Optional: you can add your own screenshot -->
+![screenshot](https://s33.picofile.com/file/8483946568/vision.gif?raw=true) <!-- Optional: you can add your own screenshot -->
 
 ---
 
